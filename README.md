@@ -1,4 +1,4 @@
-Hand Digit Recognition using TensorFlow and OpenCV
+# Hand Digit Recognition using TensorFlow and OpenCV
 Overview
 This project demonstrates hand digit recognition using machine learning techniques, particularly deep neural networks implemented with Keras, and image processing with OpenCV. The goal is to classify hand-drawn digits (from the MNIST dataset) into the correct numeric values.
 
