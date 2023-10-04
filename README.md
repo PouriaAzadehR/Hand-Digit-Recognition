@@ -176,7 +176,8 @@ def test(self, group, member):
     res = self.best_model.predict(vector_image)
     index_of_1 = res.argmax()
     print(index_of_1)
-Results
+
+# Results
 Classification errors for each model on training and cross-validation sets are displayed.
 The index of the best model and classification errors on the training, cross-validation, and test sets are printed.
 An example test image is classified using the best model, and the result is shown.
